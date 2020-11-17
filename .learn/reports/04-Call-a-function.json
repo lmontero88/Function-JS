@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Declare a squareArea variable for each call ex. squareArea1, squareArea2...",
+      "status": "passed"
+    },
+    {
+      "title": "You have to call the function calculateArea three times with the different area parameters",
+      "status": "passed"
+    },
+    {
+      "title": "Call the calculateArea function with the correct parameters",
+      "status": "passed"
+    },
+    {
+      "title": "The function calculateArea has to be called with the two values",
+      "status": "passed"
+    }
+  ]
+}

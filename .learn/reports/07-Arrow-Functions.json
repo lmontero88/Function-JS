@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Did you declare an arrow function and save it to constant named rapid?",
+      "status": "passed"
+    },
+    {
+      "title": "Did you create a for loop to iterate through the string and remove the vowels?",
+      "status": "passed"
+    },
+    {
+      "title": "The console.log(rapid(str) should output \"JHN\" ",
+      "status": "passed"
+    }
+  ]
+}

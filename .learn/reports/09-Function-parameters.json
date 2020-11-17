@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Did you create a function named \"renderPerson\" that expects five parameters?",
+      "status": "passed"
+    },
+    {
+      "title": "Did you use console.log?",
+      "status": "passed"
+    },
+    {
+      "title": "Did you return the parameters in the correct concatenation?",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Did you use console.log?",
+      "status": "passed"
+    },
+    {
+      "title": "console.log() should be called with euroToYen and dollarToEuro with the correct parameter of 137?",
+      "status": "passed"
+    }
+  ]
+}
